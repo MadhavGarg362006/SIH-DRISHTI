@@ -119,15 +119,15 @@ Emergency and forest-management teams need information that is:
 
 ## 4. System Architecture
 
-```{=html}
+
+### Replace it with this
+
+``html
 <p align="center">
-```
-`<img src="Images/DRISHTI_Architecture.png" alt="DRISHTI System Architecture" width="90%">`{=html}
-`<br>`{=html} `<em>`{=html}Figure: DRISHTI end-to-end
-architecture`</em>`{=html}
-```{=html}
+  <img src="Images/DRISHTI_Architecture.png" alt="DRISHTI System Architecture" width="90%">
+  <br>
+  <em>Figure: DRISHTI end-to-end architecture</em>
 </p>
-```
 The project follows a sequential sensing-to-intelligence pipeline:
 
 -   **Step 1: Existing UAV / Retrofit Platform**\
