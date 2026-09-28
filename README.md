@@ -120,9 +120,8 @@ Emergency and forest-management teams need information that is:
 ## 4. System Architecture
 
 
-### Replace it with this
 
-``html
+
 <p align="center">
   <img src="Images/DRISHTI_Architecture.png" alt="DRISHTI System Architecture" width="90%">
   <br>
