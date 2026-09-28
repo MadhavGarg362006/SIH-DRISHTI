@@ -340,11 +340,6 @@ mindmap
       LoRa · planned
 ```
 
-<p align="center">
-  <img src="Images/payload_on_uav.png" alt="DRISHTI payload mounted on a UAV" width="70%">
-  <br>
-  <em>Figure: DRISHTI payload on a survey UAV</em>
-</p>
 
 ### 💰 Feasibility & Estimated Cost
 
