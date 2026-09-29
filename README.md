@@ -1061,12 +1061,6 @@ The long-term objective is to provide authorities with a reusable aerial
 intelligence layer that complements broad-area detection systems with
 localized, evidence-backed verification.
 
-<p align="center">
-  <img src="Images/team_photo.png" alt="Team Hexagon" width="60%">
-  <br>
-  <em>Team Hexagon</em>
-</p>
-
 ------------------------------------------------------------------------
 
 ## 14. References
