@@ -427,7 +427,7 @@ flowchart TB
 </p>
 
 <p align="center">
-  <img src="Images/prototype_hardware.png" alt="DRISHTI working prototype" width="80%">
+  <img src="Images/prototype_hardware.jpeg" alt="DRISHTI working prototype" width="80%">
   <br>
   <em>Figure: Working prototype</em>
 </p>
@@ -446,11 +446,6 @@ Camera Communication
 Dashboard / Evidence Layer
 ```
 
-<p align="center">
-  <img src="Images/esp32cam_capture.png" alt="Sample ESP32-CAM capture" width="55%">
-  <br>
-  <em>Figure: Sample RGB frame from the ESP32-CAM / OV2640</em>
-</p>
 
 ### Current Prototype Flow
 
